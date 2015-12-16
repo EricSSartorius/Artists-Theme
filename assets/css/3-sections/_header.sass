@@ -1,18 +1,7 @@
 header
-  @extend %background-image
-  background:
+  background: #ccc
     position: 30px 20px, 50% 50%
-    image: url(../img/#{$logo-path}), url(../img/#{$hero-path})
   padding-bottom: 50px
-
-
-  .logo
-    +size(50px)
-    float: left
-    margin: 10px 0 0 30px
-
-    path
-      fill: rgba(0,0,0,0.4)
 
   nav
     float: right
@@ -44,7 +33,7 @@ header
     span
       display: inline-block
       padding: 0.2em 0.5em
-      border: white solid 10px
+
 
   .kicker
     @extend %small-bold

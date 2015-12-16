@@ -45,19 +45,20 @@
     position: relative
     display: block
     float: left
-    width: 25%
+    width: 50%
     cursor: pointer
 
     .thumb-unit
       display: block
       overflow: hidden
+      margin: 5px
 
       img
         display: block
         max-width: 100%
 
-    @media screen and (max-width: 760px)
-      width: 50%
+    // @media screen and (max-width: 540px)
+    //   width: 100%
 
     .thumb-overlay
       +position(absolute)

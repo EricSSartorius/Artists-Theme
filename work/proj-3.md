@@ -1,5 +1,5 @@
 ---
-title: Crispy Icons
+title: Bloc Pong
 ---
 
-![Crispy Icons](assets/img/work/proj-3/CrispyIcons-PetrasNargela.jpg)
+![Bloc Pong](assets/img/work/proj-3/thumb.jpg)

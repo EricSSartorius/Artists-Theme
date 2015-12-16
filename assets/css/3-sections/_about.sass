@@ -1,34 +1,16 @@
-.face-lockup
-  max-width: 780px
+.lang-lockup
+  max-width: 240px
   +display(flex)
   margin: 0 auto
   +align-items(center)
   +justify-content(space-between)
-
-  .face-img
-    border-radius: 50%
-    background-size: cover
-    background-position: center
-    background-image: url(../img/#{$avatar-path})
-    +size(200px)
-    +order(3)
-
-  [class^="icon-"]
-    +size(100px)
-    background: $bgcolor
-    border-radius: 50%
-
-    path
-      fill: $accent
-
-    &.icon-pencil
-      +order(1)
-    &.icon-mouse
-      +order(2)
-    &.icon-browser
-      +order(4)
-    &.icon-video
-      +order(5)
+  nav
+  a
+    display: inline-block
+    color: rgba(0,0,0,0.7)
+    @extend %small-bold
+    &:hover
+      color: rgba(0,0,0,1)
 
 @media screen and (max-width: 650px)
   .face-lockup
@@ -38,25 +20,12 @@
     div
       display: inline-block
 
-    .face-img
-      display: block
-      background:
-        position: center center
-        repeat: no-repeat
-      margin: 0 auto 30px
-
-    [class^="icon-"]
-      margin: 10px 9%
-
-
-
-
 .blurb
   max-width: 620px
   padding: 0 20px
   margin: 50px auto
   font-size: 24px
-  text-align: center
+  text-align: left
   font-weight: 300
 
 
