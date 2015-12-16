@@ -23,9 +23,7 @@ lang-menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
-  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  description: 'A homepage for Eric "Epic" Sartorius.'
 
 #-------------------------------
 # Google Analytics Section
@@ -44,10 +42,20 @@ seo:
 
 blurb: >
   **I love web design and front-end development** and do everything I can to improve my design and coding skills daily.
-  Living for 4 years in Japan and 5 years in Korea, I have done everything from teaching English, modeling, [event production](http://cartelcreative.net/){:target="_blank"}, artist booking, subtitling Yakuza flicks, and even running the judging system for [R16](http://www.r16korea.com/?lang=en){:target="_blank"}, the world's largest breakdance competition.
+  Living for 4 years in Japan and 5 years in Korea, I have done everything from teaching English, modeling, event production, artist booking, subtitling Yakuza flicks, and even running the judging system for [R16](http://www.r16korea.com/?lang=en){:target="_blank"}, the world's largest breakdance competition.
   Maybe I'm getting old but I thought it was time for stability so I recently moved to the USA in search of a job in web development.
-  Besides making websites, I am also have a passion for calisthenics and I am a member of [Bar Kingz](https://www.facebook.com/barkingzkorea/){:target="_blank"}, a street workout team based in Seoul, South Korea.
-  If you have similar interests or would like to collaborate on a project, please do [contact me](#contact){:target="_blank"}!
+  Besides making websites, I also have a passion for calisthenics and I am a member of [Bar Kingz](https://www.facebook.com/barkingzkorea/){:target="_blank"}, a street workout team based in Seoul, South Korea.
+  If you have similar interests or would like to collaborate on a project, please do [contact me!](#contact){:target="_blank"}
+
+
+  **ウェブデザインとフロントエンドプログラミングが大好きです。**毎日一所懸命デザインとコーディングの才能を上達することにしています。
+  ９年間海外で滞在したんですが（日本４年間、韓国５年間）、その間、英語教師、モデル、イベントプロダクション、アーティストブッキング、字幕作りなどの仕事をしました。
+  [R16](http://www.r16korea.com/?lang=en){:target="_blank"}という世界で一番大きいなブレイクダンス大会でジャッジシステムの管理までしました。
+  しかし、年齢のせいかわかりませんが、そろそろ具体的な仕事をやり始めた方がいいと思いまして、ウェブデザインの仕事をするためにアメリカに引っ越しました。
+  ウェブサイトを作ること以外、体操も大好きで、現在[Bar Kingz](https://www.facebook.com/barkingzkorea/){:target="_blank"}という韓国の運動パフォーマンスチームに入っています。
+  もし共通の趣味があり、もしくは一緒に仕事をすることに興味があれば、是非[連絡してください。](#contact){:target="_blank"} 宜しくお願いします！
+
+
 
 # skills:
 # - {name: Communication, value: '9'}
@@ -67,39 +75,6 @@ projects:
 - {name: Bloc Time, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: Bloc Pong, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Bloc Jams, folder: 'proj-4', file: 'work/proj-4.html'}
-# - {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
-# - {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
-# - {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
-# - {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
-
-
-
-
-#-------------------------------
-# Clients Section
-
-clients:
-- {avatar: 'face-aaroni.jpg',
-  name: 'Scott Summers',
-  title: 'Director of Design, OnToText Ind.',
-  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
-  logo: 'logo1.png'}
-- {avatar: 'face-atariboy.jpg',
-  name: 'Hank McCoy',
-  title: 'Eater of Salad, Antartica Int.',
-  quote: '<p><strong>Working with Travis was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
-  logo: 'logo2.png'}
-- {avatar: 'face-jackiesaik.jpg',
-  name: 'Stacy Lang',
-  title: 'Social Media Girl, Quebec Int.',
-  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
-  logo: 'logo3.png'}
-- {avatar: 'face-teleject.jpg',
-  name: 'Cleatus Cassidy',
-  title: 'VP of Helmut, Lorem Sorem LLC.',
-  quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
-  logo: 'logo4.png'}
-
 
 #-------------------------------
 # Contact Section
@@ -108,7 +83,7 @@ social:
 - {icon: 'github', link: 'https://github.com/ericssartorius'}
 - {icon: 'linkedin', link: 'http://www.linkedin.com/in/ericsartorius/'}
 - {icon: 'twitter', link: 'http://twitter.com/ericssartorius'}
-- {icon: 'instagram', link: 'https://instagram.com/theepiclife'}
+- {icon: 'facebook', link: 'https://facebook.com/iamtheepic'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
