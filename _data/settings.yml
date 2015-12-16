@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Eric Sartorius
-description: Designer . Developer . Linguist
+description: "< Designer && Developer && Linguist >"
 email: ericssartorius@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
@@ -43,13 +43,11 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  Hi, I'm Eric Sartorius.
-  I love web design and front-end development and do everything I can to improve my design and coding skills daily.
-  Living for 4 years in Japan and 5 years in Korea, I have freelanced everything from teaching English, modeling, event production, artist booking, subtitling Yakuza flicks, and even running the judging system for the world's largest breakdance competition.
+  **I love web design and front-end development** and do everything I can to improve my design and coding skills daily.
+  Living for 4 years in Japan and 5 years in Korea, I have done everything from teaching English, modeling, [event production](http://cartelcreative.net/){:target="_blank"}, artist booking, subtitling Yakuza flicks, and even running the judging system for [R16](http://www.r16korea.com/?lang=en){:target="_blank"}, the world's largest breakdance competition.
   Maybe I'm getting old but I thought it was time for stability so I recently moved to the USA in search of a job in web development.
-  Besides making websites, I am also a calisthenics junkie and member of Bar Kingz, a street workout team based in Seoul, South Korea.
+  Besides making websites, I am also have a passion for calisthenics and I am a member of [Bar Kingz](https://www.facebook.com/barkingzkorea/){:target="_blank"}, a street workout team based in Seoul, South Korea.
   If you have similar interests or would like to collaborate on a project, please do [contact me](#contact){:target="_blank"}!
-
 
 # skills:
 # - {name: Communication, value: '9'}
@@ -65,7 +63,7 @@ blurb: >
 # Work Section
 
 projects:
-- {name: Online Judge, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Epic Judge, folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: Bloc Time, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: Bloc Pong, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Bloc Jams, folder: 'proj-4', file: 'work/proj-4.html'}
