@@ -8,13 +8,3 @@ This portfolio was forked from the DevTips Artist-theme repo and redone/restyled
 ## Credits
 
 Shoutout to [DevTips](https://github.com/DevTips/Artists-Theme) for the free template.
-
-
-
-
-
-
----
-
-
-This is a free Jekyll Theme that was forked from the [DevTips YouTube channel](http://youtube.com/devtipsfordesigners).
