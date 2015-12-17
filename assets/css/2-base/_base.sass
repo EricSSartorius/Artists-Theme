@@ -90,7 +90,7 @@ body
   background: $documentBackgroundColor
   font-size: 14px
   line-height: 1.6
-  font-family: 'Open Sans' sans-serif
+  font-family: 'Lato', sans-serif
   color: $textColor
   -webkit-font-smoothing: antialiased
   -webkit-text-size-adjust: 100%
@@ -98,9 +98,9 @@ body
 svg
   +size(100%)
 
-h3
-  @extend %small-bold
-  color: $accent-light
+h2
+  font-weight: 300
+  color: $teal
   text-align: center
   padding: 100px 0 30px
 
@@ -110,12 +110,27 @@ fieldset
   border: none
 
 @media screen and (max-width: 480px)
-  h3
+  h2
     padding: 50px 0 50px
 
-section:nth-child(odd)
-  background: $bgcolor
+.section-about
   padding-bottom: 100px
-
-  h3
-    color: darken($accent-light, 10%)
+  h2
+    color: $teal
+    
+.section-work
+  background: $grey
+  padding-bottom: 100px
+  h2
+    color: $teal
+    
+.section-contact
+  background: $teal
+  padding-bottom: 100px
+  h2
+    color: $grey
+    
+.section-form
+  padding-bottom: 100px
+  h2
+    color: $teal

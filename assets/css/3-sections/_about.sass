@@ -11,20 +11,22 @@
     cursor: pointer
     display: inline-block
     color: rgba(0,0,0,0.7)
-    @extend %small-bold
     &:hover
-      color: rgba(0,0,0,1)
+      color: $accent
 
 @media screen and (max-width: 650px)
   .lang-lockup
     text-align: center
     span
       padding: 0 10px
+      
+h2
+  padding-bottom: 0
 
 .language
-  max-width: 620px
+  max-width: 720px
   padding: 0 20px
   margin: 50px auto
   font-size: 24px
-  text-align: left
+  text-align: center
   font-weight: 300

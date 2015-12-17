@@ -10,12 +10,22 @@ animation: "bounceOut"
 
 # Colors
 
-accent: "#BE2525"
+accent: "lighten(#1b4662, 20%)"
+
+
 
 textColor: "#666"
 headlineColor: "#333"
 bgcolor: "#e5eaee"
 documentBackgroundColor: "#fff"
+
+darkblue: "#0a2334"
+blue: "#1b4662"
+teal: "lighten(#1b4662, 20%)"
+red: "#BE2525"
+grey: "#E8E8E8"
+
+
 
 
 
