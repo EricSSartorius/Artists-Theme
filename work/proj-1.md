@@ -4,7 +4,7 @@ title: Epic Judge
 
 ![Epic Judge](assets/img/work/proj-1/thumb.jpg)
 
-Epic Judge (still not officially named) is the first large-scale project that I decided to undertake. I have been working with Angular-Meteor to make it come alive. All code for Epic Judge can be found on Github [here](https://github.com/EricSSartorius/Judging-System){:target="_blank"}.
+Epic Judge (still not officially named) is the first large-scale project that I decided to undertake. I have been working in Angular-Meteor to make it come alive. All code for Epic Judge can be found on Github [here](https://github.com/EricSSartorius/Judging-System){:target="_blank"}.
 
 During my time in South Korea, I worked as the head administrator for O.U.R. System, a judging system for breakdance competitions. After years of using the system, I learned a lot about things I liked and that I would also like to see changed about the program that runs the O.U.R. System. Also, I did some research online and realized that there are no simple online judging systems that can be used for a variety of sports and events. So, I decided to combine my experience as a judging system administrator and front-end developer to create Epic Judge. 
 

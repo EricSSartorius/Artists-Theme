@@ -13,9 +13,9 @@ menu:
 - {name: Contact, url: '#contact'}
 
 lang-menu:
-- {name: EN, url: '#english'}
-- {name: 日, url: '#japanese'}
-- {name: 한, url: '#korean'}
+- {name: "<p>EN</p>", class: en, }
+- {name: "<p>日</p>", class: jp, }
+- {name: "<p>한</p>", class: kr,}
 
 #-------------------------------
 # SEO Section
@@ -40,22 +40,28 @@ seo:
 
 # NOTE: The avatar is defined in the all.sass document.
 
-blurb: >
+blurbEN: >
   **I love web design and front-end development** and do everything I can to improve my design and coding skills daily.
   Living for 4 years in Japan and 5 years in Korea, I have done everything from teaching English, modeling, event production, artist booking, subtitling Yakuza flicks, and even running the judging system for [R16](http://www.r16korea.com/?lang=en){:target="_blank"}, the world's largest breakdance competition.
   Maybe I'm getting old but I thought it was time for stability so I recently moved to the USA in search of a job in web development.
   Besides making websites, I also have a passion for calisthenics and I am a member of [Bar Kingz](https://www.facebook.com/barkingzkorea/){:target="_blank"}, a street workout team based in Seoul, South Korea.
   If you have similar interests or would like to collaborate on a project, please do [contact me!](#contact){:target="_blank"}
 
-
+blurbJP: >
   **ウェブデザインとフロントエンドプログラミングが大好きです。**毎日一所懸命デザインとコーディングの才能を上達するよう努力しています。
   ９年間海外に滞在したんですが（日本４年間、韓国５年間）、その間、英語教師、モデル、イベントプロダクション、アーティストブッキング、字幕作りなどの仕事をしました。
   [R16](http://www.r16korea.com/?lang=en){:target="_blank"}という世界で一番大きいなブレイクダンス大会でジャッジシステムの管理までしました。
   しかし、年齢のせいかわかりませんが、そろそろ具体的な仕事をやり始めた方がいいと思いまして、ウェブデザインの仕事をするためにアメリカに引っ越しました。
   ウェブサイトを作ること以外、体操も大好きで、現在[Bar Kingz](https://www.facebook.com/barkingzkorea/){:target="_blank"}という韓国の運動パフォーマンスチームに入っています。
-  もし共通の趣味があり、もしくは一緒に仕事をすることに興味があれば、是非[連絡してください。](#contact){:target="_blank"} 宜しくお願いします！
+  もし共通の趣味があり、もしくは一緒に仕事をすることに興味があれば、是非[連絡してください!](#contact){:target="_blank"}
 
-
+blurbKR: >
+  **웹디자인과 프런트엔드 프로그래밍을 너무 좋아해요.** 매일 열심히 디자인과 코딩의 재능을 향상하기 위해 노력하고 있어요.
+  9 년 동안 해외에 체류 했는데(일본 4 년, 한국 5 년), 그때 영어교사, 모델, 이벤트 프로덕션, 자막 제작 등의 작업을 했어요. 
+  [R16](http://www.r16korea.com/?lang=en){:target="_blank"}이라는 세계에서 가장 큰 비보이 대회에서 사용하는 심판 시스템의 관리도 한 적이 있어요.
+  하지만, 이제 특정한 일을 하고 싶어서, 웹디자인 일을 하기위해 미국으로 이사했어요. 웹 사이트를 만드는 것 외에, 체조도 너무 좋아하고, 현재 [바킹즈](https://www.facebook.com/barkingzkorea/){:target="_blank"}라는 길거리운동 팀에 속해 있습니다.
+  만약 공통의 취미가 있고, 혹은 함께 일을 하는 것에 관심이 있다면 꼭[연락하십시오!](#contact){:target="_blank"}
+  
 
 # skills:
 # - {name: Communication, value: '9'}

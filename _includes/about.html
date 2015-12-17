@@ -6,14 +6,20 @@
 
   <nav class="lang-lockup">
     {% for item in site.data.settings.lang-menu %}
-      <a href="{{ item.url }}">{{ item.name }}</a>
+      <span class="{{ item.class}}">{{ item.name }}</span>
     {% endfor %}
   </nav>
 
 
 
-  <div class="blurb">
-    {{ site.data.settings.blurb | markdownify }}
+  <div class="language english" >
+    {{ site.data.settings.blurbEN | markdownify }}
+  </div>
+  <div class="language japanese" >
+    {{ site.data.settings.blurbJP | markdownify }}
+  </div>
+  <div class="language korean" >
+    {{ site.data.settings.blurbKR | markdownify }}
   </div>
 
 </section>
