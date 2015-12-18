@@ -3,7 +3,6 @@
 markdown: kramdown
 permalink: pretty
 
-port: 8000
 
 include: ['_includes/work']
 
