@@ -10,3 +10,7 @@ include: ['_includes/work']
 sass:
   sass_dir: assets/css
   style: :nested
+
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/
+  url: "http://ericsartorius.com"
