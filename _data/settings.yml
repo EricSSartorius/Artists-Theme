@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Eric Sartorius
-description: "< Designer && Developer && Linguist >"
+description: "Designer . Developer . Linguist "
 email: ericssartorius@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
@@ -42,10 +42,13 @@ google-analytics-ua: UA-71581610-1
 
 blurbEN: >
   **I love web design and frontend development** and do everything I can to improve my design and coding skills daily.
-  Living for 4 years in Japan and 5 years in Korea, I have done everything from teaching English, modeling, event production, artist booking, subtitling Yakuza flicks, and even running the judging system for [R16](http://www.r16korea.com/?lang=en){:target="_blank"}, the world's largest breakdance competition.
-  Maybe I'm getting old but I thought it was time for stability so I recently moved to the USA in search of a job in web development.
-  Besides making websites, I also have a passion for calisthenics and I am a member of [Bar Kingz](https://www.facebook.com/barkingzkorea/){:target="_blank"}, a street workout team based in Seoul, South Korea.
-  If you have similar interests or would like to collaborate on a project, please do [contact me!](#contact){:target="_blank"}
+  Living for 4 years in Japan and 5 years in Korea, I have done everything from teaching English, to running the judging system for [R16](http://www.r16korea.com/?lang=en){:target="_blank"}, the world's largest breakdance competition.
+  I also have a passion for calisthenics and I am a member of [Bar Kingz](https://www.facebook.com/barkingzkorea/){:target="_blank"}, a street workout team based in Seoul, South Korea.
+
+
+  Maybe I'm getting old but I thought it was time for stability so I recently moved back to the USA in search of a job in web development.
+  For a detailed list of my professional experience, find me on [Linkedin](http://www.linkedin.com/in/ericsartorius){:target="_blank"} or [email me](#contact){:target="_blank"} for a copy of my resume.
+   Also feel free to look at some of my projects below. All of my code for them can be found on [Github.](https://github.com/ericssartorius){:target="_blank"}
 
 blurbJP: >
   **ウェブデザインとフロントエンドプログラミングが大好きです。**毎日一所懸命デザインとコーディングの才能を上達するよう努力しています。
