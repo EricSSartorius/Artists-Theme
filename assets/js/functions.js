@@ -26,16 +26,16 @@ function smoothScroll (duration) {
 
 function changeLang() {
 	$('.en').click(function() {
-		$('.english').show();
-		$('.korean, .japanese').hide();
+		$('.english').show("slow");
+		$('.korean, .japanese').hide("slow");
 	});
 	$('.jp').click(function() {
-		$('.japanese').show();
-		$('.english, .korean').hide();
+		$('.japanese').show("slow");
+		$('.english, .korean').hide("slow");
 	});
 	$('.kr').click(function() {
-		$('.korean').show();
-		$('.english, .japanese').hide();
+		$('.korean').show("slow");
+		$('.english, .japanese').hide("slow");
 	});
 }
 
