@@ -1,56 +1,73 @@
 header
-  background: #ccc
-    position: 30px 20px, 50% 50%
-  padding-bottom: 50px
+  .container
+    background: lighten($darkblue, 10%)
+    position: relative
+    padding-bottom: 540px
+    overflow: hidden
+    video
+      position: absolute
+      top: 50%
+      left: 50%
+      transform: translate(-50%, -50%)
+      min-width: 100%
+      min-height: 100%
+      width: auto
+      height: auto
+      z-index: 1
+      background: transparent
+    .text
+      z-index: 2
+      position: absolute
+      background: rgba($darkblue,0.7)
+      top: 0
+      bottom: 0
+      left: 0
+      right: 0
+    nav
+      float: right
+      padding: 30px 30px 0 0
 
-  nav
-    float: right
-    padding: 30px 30px 0 0
+      a
+        display: inline-block
+        margin-left: 20px
 
-    a
-      display: inline-block
-      margin-left: 20px
+        color: white
+        @extend %small-bold
 
-      color: rgba(0,0,0,0.7)
-      @extend %small-bold
-
-      &:hover
-        color: rgba(0,0,0,1)
-
-  h1
-    text-align: center
-    font:
-      size: 72px
-      weight: 700
-    color: $accent
-    text-transform: uppercase
-    letter-spacing: 0.05em
-    margin-bottom: 20px
-    clear: both
-    padding-top: 100px
-
-
+        &:hover
+          border-bottom: solid 1px
+          margin-bottom: -1px
+    h1
+      text-align: center
+      font:
+        size: 72px
+        weight: 700
+      color: white
+      text-transform: uppercase
+      letter-spacing: 0.05em
+      margin-bottom: 20px
+      clear: both
+      padding-top: 100px
     span
       display: inline-block
       padding: 0.2em 0.5em
 
 
-  .kicker
-    @extend %small-bold
-    text-align: center
-    letter-spacing: 0.05em
-    color: white
-    line-height: 1
+.kicker
+  @extend %small-bold
+  text-align: center
+  letter-spacing: 0.05em
+  color: rgba(white,0.8)
+  line-height: 1
 
 @media (max-width: 640px)
   header
     background:
       position: 50% 20px, 50% 50%
-
-    nav
-      float: none
-      text-align: center
-      padding-top: 90px
-
-    h1
-      padding-top: 0px
+    .text
+      nav
+        float: none
+        text-align: center
+        padding-top: 90px
+      h1
+        padding-top: 0px
