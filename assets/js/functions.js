@@ -8,6 +8,11 @@ $(function() {
 	$(".biglink").fitText(1.5);
 
 	$('textarea').autosize();
+
+	var video = document.getElementById('video');
+	video.addEventListener('click',function(){
+	  video.play();
+	},false);
 });
 
 function smoothScroll (duration) {
@@ -26,16 +31,16 @@ function smoothScroll (duration) {
 
 function changeLang() {
 	$('.en').click(function() {
-		$('.english').show("animated fadeOut");
-		$('.korean, .japanese').hide("animated fadeOut");
+		$('.english').show();
+		$('.korean, .japanese').hide();
 	});
 	$('.jp').click(function() {
-		$('.japanese').show("animated fadeOut");
-		$('.english, .korean').hide("animated fadeOut");
+		$('.japanese').show();
+		$('.english, .korean').hide();
 	});
 	$('.kr').click(function() {
-		$('.korean').show("animated fadeOut");
-		$('.english, .japanese').hide("animated fadeOut");
+		$('.korean').show();
+		$('.english, .japanese').hide();
 	});
 }
 
