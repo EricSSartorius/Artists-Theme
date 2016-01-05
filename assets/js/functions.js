@@ -8,11 +8,6 @@ $(function() {
 	$(".biglink").fitText(1.5);
 
 	$('textarea').autosize();
-
-	var video = document.getElementById('video');
-	video.addEventListener('click',function(){
-	  video.play();
-	},false);
 });
 
 function smoothScroll (duration) {
