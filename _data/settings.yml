@@ -13,9 +13,9 @@ menu:
 - {name: Contact, url: '#contact'}
 
 lang-menu:
-- {name: "<p>EN</p>", class: en, }
-- {name: "<p>日</p>", class: jp, }
-- {name: "<p>한</p>", class: kr,}
+- {name: "<p>EN</p>", class: 'en lang-selected' }
+- {name: "<p>日</p>", class: 'jp' }
+- {name: "<p>한</p>", class: 'kr'}
 
 #-------------------------------
 # SEO Section
