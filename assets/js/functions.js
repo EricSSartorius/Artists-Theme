@@ -26,14 +26,20 @@ function smoothScroll (duration) {
 
 function changeLang() {
 	$('.en').click(function() {
+		$('.en').addClass('lang-selected');
+		$('.kr,.jp').removeClass('lang-selected');
 		$('.english').show();
 		$('.korean, .japanese').hide();
 	});
 	$('.jp').click(function() {
+		$('.jp').addClass('lang-selected');
+		$('.kr,.en').removeClass('lang-selected');
 		$('.japanese').show();
 		$('.english, .korean').hide();
 	});
 	$('.kr').click(function() {
+		$('.kr').addClass('lang-selected');
+		$('.en,.jp').removeClass('lang-selected');
 		$('.korean').show();
 		$('.english, .japanese').hide();
 	});
