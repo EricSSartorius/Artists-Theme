@@ -93,7 +93,7 @@ projects:
 - {name: Bloc Pong, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Bloc Jams, folder: 'proj-4', file: 'work/proj-4.html'}
 - {name: Google Simon, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Tic Tac Toe, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Impossible Tic Tac Toe, folder: 'proj-6', file: 'work/proj-6.html'}
 
 #-------------------------------
 # Contact Section
