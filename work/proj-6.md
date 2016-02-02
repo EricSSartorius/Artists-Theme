@@ -1,5 +1,5 @@
 ---
-title: Tic Tac Toe
+title: Impossible Tic Tac Toe
 ---
 
 <p><p data-height="462" data-theme-id="0" data-slug-hash="NxypQM" data-default-tab="result" data-user="EricSSartorius" class='codepen'>See the Pen <a href='http://codepen.io/EricSSartorius/pen/NxypQM/'>Impossible Tic-Tac-Toe</a> by Epic (<a href='http://codepen.io/EricSSartorius'>@EricSSartorius</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
