@@ -42,13 +42,16 @@ google-analytics-ua: UA-71581610-1
 
 blurbEN: >
   **I love web design and frontend development** and do everything I can to improve my design and coding skills daily.
-  Living for 4 years in Japan and 5 years in Korea, I have done everything from teaching English to running the judging system for [R16](http://www.r16korea.com/?lang=en){:target="_blank"}, the world's largest breakdance competition.
-  I also have a passion for calisthenics and I am a member of [Bar Kingz](https://www.facebook.com/barkingzkorea/){:target="_blank"}, a street workout team based in Seoul, South Korea.
+   Recently, I have finished frontend programs from both [Bloc,](https://www.bloc.io/frontend-development-bootcamp){:target="_blank"} an intensive online coding bootcamp, and [Free Code Camp](https://www.freecodecamp.com/ericssartorius){:target="_blank"}, another online frontend course.
+   These days however, I spend most of my time studying new frontend technologies or working on [U-Judge](https://ujudge.meteor.com){:target="_blank"}, a universal online judging system. 
+
+   
+  Oh yeah, and web development isn't the only thing that I do. Living for 4 years in Japan and 5 years in Korea, I have done everything from teaching English and modeling to subtitling movies and even running the judging system for [R16](http://www.r16korea.com/?lang=en){:target="_blank"}, the world's largest breakdance competition.
+  I also have a passion for calisthenics and I am a member of [Bar Kingz](https://www.facebook.com/barkingzkorea/){:target="_blank"}, a street workout team based in Seoul, South Korea. I am always hard at work either studying or exercising but loving every minute of it.
 
 
-  After recently finishing up [Bloc](https://www.bloc.io/frontend-development-bootcamp){:target="_blank"}, an intensive online coding bootcamp, I moved back to the USA in search of a job in web development.
   For a detailed list of my professional experience, find me on [Linkedin](http://www.linkedin.com/in/ericsartorius){:target="_blank"} or [email me](#contact){:target="_blank"} for a copy of my resume.
-   Also feel free to look at some of my projects below which I made during my time at [Bloc](https://www.bloc.io/frontend-development-bootcamp){:target="_blank"}. All of my code can be found on [Github.](https://github.com/ericssartorius){:target="_blank"}
+   Also feel free to look at some of my projects below which I made during my time at [Bloc](https://www.bloc.io/frontend-development-bootcamp){:target="_blank"} and [Free Code Camp](https://www.freecodecamp.com/ericssartorius){:target="_blank"}. All of my code can be found on [Github](https://github.com/ericssartorius){:target="_blank"} or you can view my mini-projects on [Codepen.](https://codepen.com/ericssartorius){:target="_blank"}
 
 blurbJP: >
   **ウェブデザインとフロントエンドプログラミングが大好きです。**毎日一所懸命デザインとコーディングの才能を上達するよう努力しています。
@@ -89,6 +92,8 @@ projects:
 - {name: Bloc Time, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: Bloc Pong, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Bloc Jams, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Google Simon, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Tic Tac Toe, folder: 'proj-6', file: 'work/proj-6.html'}
 
 #-------------------------------
 # Contact Section
