@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Eric Sartorius
-description: "Designer . Developer . Linguist"
+description: "Designer . Developer . Entrepenuer . Linguist . Athlete . Model . Traveler"
 email: ericssartorius@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
@@ -13,9 +13,9 @@ menu:
 - {name: Contact, url: '#contact'}
 
 lang-menu:
-- {name: "<p>EN</p>", class: 'en lang-selected' }
-- {name: "<p>日</p>", class: 'jp' }
-- {name: "<p>한</p>", class: 'kr'}
+- {name: "<p>English</p>", class: 'en lang-selected' }
+- {name: "<p>日本語</p>", class: 'jp' }
+- {name: "<p>한국어</p>", class: 'kr'}
 
 #-------------------------------
 # SEO Section
@@ -41,37 +41,24 @@ google-analytics-ua: UA-71581610-1
 # NOTE: The avatar is defined in the all.sass document.
 
 blurbEN: >
-  **I love web design and frontend development** and do everything I can to improve my design and coding skills daily.
-   Recently, I have finished frontend programs from both [Bloc,](https://www.bloc.io/frontend-development-bootcamp){:target="_blank"} an intensive online coding bootcamp, and [Free Code Camp](https://www.freecodecamp.com/ericssartorius){:target="_blank"}, another online frontend course.
-   These days however, I spend most of my time studying new frontend technologies or working on [U-Judge](https://ujudge.meteorapp.com){:target="_blank"}, a universal online judging system. 
-
-   
-  Oh yeah, and web development isn't the only thing that I do. Living for 4 years in Japan and 5 years in Korea, I have done everything from teaching English and modeling to subtitling movies and even running the judging system for [R16](http://www.r16korea.com/?lang=en){:target="_blank"}, the world's largest breakdance competition.
-  I also have a passion for calisthenics and I am a member of [Bar Kingz](https://www.facebook.com/barkingzkorea/){:target="_blank"}, a street workout team based in Seoul, South Korea. I am always hard at work either studying or exercising but loving every minute of it.
-
-
-  For a detailed list of my professional experience, find me on [Linkedin](http://www.linkedin.com/in/ericsartorius){:target="_blank"} or [email me](#contact){:target="_blank"} for a copy of my resume.
-   Also feel free to look at some of my projects below which I made during my time at [Bloc](https://www.bloc.io/frontend-development-bootcamp){:target="_blank"} and [Free Code Camp](https://www.freecodecamp.com/ericssartorius){:target="_blank"}. All of my code can be found on [Github](https://github.com/ericssartorius){:target="_blank"} or you can view my mini-projects on [Codepen.](https://codepen.io/EricSSartorius/){:target="_blank"}
-
-blurbJP: >
-  **ウェブデザインとフロントエンドプログラミングが大好きです。**毎日一所懸命デザインとコーディングの才能を上達するよう努力しています。
-  ９年間海外に滞在したんですが（日本４年間、韓国５年間）、その間、英語教師、モデル、イベントプロダクション、アーティストブッキング、字幕作りなどの仕事をしました。
-  [**R16**](http://www.r16korea.com/?lang=en){:target="_blank"}という世界で一番大きいなブレイクダンス大会でジャッジシステムの管理までしました。
-  体操も大好きで、現在[**Bar Kingz**](https://www.facebook.com/barkingzkorea/){:target="_blank"}という韓国の運動パフォーマンスチームに入っています。
-
-
-  最近[**Bloc**](https://www.bloc.io/frontend-development-bootcamp){:target="_blank"}というオンラインコーディングブートキャンプから卒業して、ウェブデザインの仕事をするためにアメリカに引っ越しました。
-  もし共通の趣味があり、もしくは一緒に仕事をすることに興味があれば、是非[連絡してください!](#contact){:target="_blank"}
-
-blurbKR: >
-  **웹디자인과 프런트엔드 프로그래밍을 너무 좋아해요.** 매일 열심히 디자인과 코딩의 재능을 향상하기 위해 노력하고 있어요.
-  9 년 동안 해외에 체류 했는데(일본 4 년, 한국 5 년), 그때 영어교사, 모델, 이벤트 프로덕션, 자막 제작 등의 작업을 했어요. 
-  [**R16**](http://www.r16korea.com/?lang=en){:target="_blank"}이라는 세계에서 가장 큰 비보이 대회에서 사용하는 심판 시스템의 관리도 한 적이 있어요.
-  체조도 너무 좋아하고, 현재 [**바킹즈**](https://www.facebook.com/barkingzkorea/){:target="_blank"}라는 길거리운동 팀에 속해 있습니다.
+  **Life is short** and I want to see how much I can explore and learn before I die. If you are curious about how I have time to code, design, model, study languages, and workout **all while traveling the world**, [I've got a website for that](http://iamtheepic.com){:target="_blank"}.
   
 
-  요즘 [**Bloc**](https://www.bloc.io/frontend-development-bootcamp){:target="_blank"}라는 온라인 코딩 부트 캠프를 졸업해서  웹디자인 일을 하기위해 미국으로 이사했어요.
-  만약 공통의 취미가 있고, 혹은 함께 일을 하는 것에 관심이 있다면 꼭[**연락하십시오!**](#contact){:target="_blank"}
+  **Looking for a designer and/or front-end developer** to help with a project? find me on [Linkedin](http://www.linkedin.com/in/ericsartorius){:target="_blank"} or [contact me](#contact){:target="_blank"}.
+  Also feel free to look at some of my front-end coding side projects below and checkout my web design company, [2S](http://2sbros.com){:target="_blank"}.
+
+blurbJP: >
+ **人生は短いです。**なので、死ぬまでにいっぱい体験したり学んだりしたいです。私はどうやって**世界を回りながら**、プログラミング、デザイン、モデル、言語の勉強、運動などをするか知りたい方は是非、[私のブログを見てください](http://iamtheepic.com){:target="_blank"}.
+
+
+ もし共通の趣味があり、もしくはデザインやフロントエンドプログラミングや日英翻訳を手伝う必要があれば、是非[連絡してください!](#contact){:target="_blank"} そして会社のホームページが必要の方は私の会社[2S](http://2sbros.com){:target="_blank"}へどうぞ！
+
+blurbKR: >
+
+  **인생은 짧아요.** 그래서 죽을 때까지 많이 경험하고 공부를 하고싶어요. 제가 어떻개 **세계 여행하면서** 디자인, 프로그래밍, 모델, 언어의 공부, 운동 등을 알고싶은 분은 [재 블로그를 보세요!](http://iamtheepic.com){:target="_blank"}
+  
+
+  만약 공통의 취미가 있고, 혹은 디자인과 프런트엔드 프로그래밍과 번역하는 필요가 있다면 꼭[연락하십시오!](#contact){:target="_blank"} 그리고 회사의 홈페이지가 필요 분은 우리 회사 [2S](http://2sbros.com){: target = "_blank"}으로 오세요!
   
 
 # skills:
