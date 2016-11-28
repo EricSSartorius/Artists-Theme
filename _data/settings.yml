@@ -77,7 +77,7 @@ blurbKR: >
 projects:
 - {name: U-Judge, folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: Bloc Time, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Bloc Pong, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Rentr, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Bloc Jams, folder: 'proj-4', file: 'work/proj-4.html'}
 - {name: Google Simon, folder: 'proj-5', file: 'work/proj-5.html'}
 - {name: Impossible Tic Tac Toe, folder: 'proj-6', file: 'work/proj-6.html'}
