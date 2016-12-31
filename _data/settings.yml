@@ -8,7 +8,7 @@ email: ericssartorius@gmail.com
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
-  {name: Blog, url: 'http://www.iamtheepic.com'}
+- {name: Blog, url: 'http://www.iamtheepic.com'}
 - {name: About, url: '#about-me'}
 - {name: Projects, url: '#work'}
 - {name: Contact, url: '#contact'}
