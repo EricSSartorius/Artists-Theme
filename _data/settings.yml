@@ -8,6 +8,7 @@ email: ericssartorius@gmail.com
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
+  {name: Blog, url: 'http://www.iamtheepic.com'}
 - {name: About, url: '#about-me'}
 - {name: Projects, url: '#work'}
 - {name: Contact, url: '#contact'}
@@ -42,7 +43,7 @@ google-analytics-ua: UA-71581610-1
 
 blurbEN: >
   **Life is short** and I want to see how much I can explore and learn before I die. If you are curious about how I have time to code, design, model, study languages, and workout **all while traveling the world**, [I've got a website for that](http://iamtheepic.com){:target="_blank"}.
-  
+
 
   **Looking for a designer and/or front-end developer** to help with a project? find me on [Linkedin](http://www.linkedin.com/in/ericsartorius){:target="_blank"} or [contact me](#contact){:target="_blank"}.
   Also feel free to look at some of my front-end coding side projects below and checkout my web design company, [2S](http://2sbros.com){:target="_blank"}.
@@ -56,10 +57,10 @@ blurbJP: >
 blurbKR: >
 
   **인생은 짧아요.** 그래서 죽을 때까지 많이 경험하고 공부를 하고싶어요. 제가 어떻개 **세계 여행하면서** 디자인, 프로그래밍, 모델, 언어의 공부, 운동 등을 알고싶은 분은 [재 블로그를 보세요!](http://iamtheepic.com){:target="_blank"}
-  
+
 
   만약 공통의 취미가 있고, 혹은 디자인과 프런트엔드 프로그래밍과 번역하는 필요가 있다면 꼭[연락하십시오!](#contact){:target="_blank"} 그리고 회사의 홈페이지가 필요하시는 분은 우리 회사 [2S](http://2sbros.com){: target = "_blank"}으로 오세요!
-  
+
 
 # skills:
 # - {name: Communication, value: '9'}
@@ -92,4 +93,4 @@ social:
 - {icon: 'dribbble', link: 'https://dribbble.com/ericssartorius'}
 
 
-# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine' 
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
