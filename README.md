@@ -8,3 +8,8 @@ This portfolio was forked from the DevTips Artist-theme repo and redone/restyled
 ## Credits
 
 Shoutout to [DevTips](https://github.com/DevTips/Artists-Theme) for the free template.
+
+
+### Note
+
+The header video and project links are broken on this site but as of 11/2017 This page is no longer upkept. The repo for my updated homepage can be found [Here](https://github.com/EricSSartorius/homepage).
